@@ -1,0 +1,13 @@
+---
+title: "Cleaning Airbnb Data"
+author: "Craig McLean"
+date: "4/6/2019"
+output: html_document
+---
+
+# Goal
+
+We want to set a threshold on what makes an airbnb active for each year that data
+was collected to see how many airbnbs are changing over time in unique parts
+of Boston.
+

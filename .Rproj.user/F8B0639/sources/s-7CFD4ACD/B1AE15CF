@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554564713072.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "674767",
+    "id" : "B1AE15CF",
+    "lastKnownWriteTime" : 1554564895,
+    "last_content_update" : 1554564895203,
+    "path" : "~/Documents/hackathon/2019-04-06/hark_airbnb/scr/2019-04-06/clean_airbnb_data.Rmd",
+    "project_path" : "scr/2019-04-06/clean_airbnb_data.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
